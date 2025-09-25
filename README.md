@@ -118,7 +118,6 @@ Any derivative works based on **historical AGPL versions MUST**:
 - [@hujiayucc](https://github.com/hujiayucc) 项目合作者
 - [@dev-bz](https://github.com/dev-bz) (不知者来此) 提供了帮助
 ### 🐱 开源集成
-- [Gradle项目](https://github.com/neu233/AIDE-Plus) AS版本
 - [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) 借鉴了部分代码
 - [CodeAssist](https://github.com/tyron12233/CodeAssist) 借鉴了部分代码
 - [Termux-app](https://github.com/termux/termux-app) 集成到软件内部
